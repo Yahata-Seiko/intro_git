@@ -6,3 +6,4 @@ Gitの練習をしていきます
 ・git status
 git
 ・git diff
+git できたよ
